@@ -1,4 +1,4 @@
-# Shopify App Template for Node
+# Shopify Polaris
 
 ### Installing the template
 
